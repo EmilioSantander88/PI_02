@@ -1,6 +1,6 @@
 # PI_02
 
-![S&P 500](https://previews.123rf.com/images/maxkabakov/maxkabakov1703/maxkabakov170300344/73196110-stock-market-indexes-concept-pixelated-black-text-s-p-500-on-digital-background.jpg)
+![S&P 500](https://media.istockphoto.com/id/1335447913/es/foto/banner-web-amplio-con-palabras-de-negocios-de-inversi%C3%B3n-financiera-%C3%ADndice-s-p-500-en-cubos.jpg?s=612x612&w=0&k=20&c=Mh_MHRDqqqrgpN4oLP0QRkSFA2XbQYTiZzFWg3FCNwg=)
  
  # Proyecto Individual Numero 2 - Soy Henry - Data Analyst
  
