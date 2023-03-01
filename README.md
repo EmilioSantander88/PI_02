@@ -1,7 +1,6 @@
 # PI_02
 
-!https://drive.google.com/drive/folders/0B3fqgoVFv4rbWkV1aXhXN2piX3c?resourcekey=0-SvnSJH-fl4gkGcG56QMYxg
-
+![S&P 500](https://drive.google.com/drive/folders/0B3fqgoVFv4rbWkV1aXhXN2piX3c?resourcekey=0-SvnSJH-fl4gkGcG56QMYxg)
  # Proyecto Individual Numero 2 - Soy Henry - Data Analyst
  
  # Análisis y propuesta del índice S&P 500
